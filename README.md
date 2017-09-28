@@ -1,2 +1,3 @@
-# group-star
-Filer til STAR (STuderendes Astronomiske Råd)
+# STAR - STuderendes Astronomiske Råd
+
+Filer delt i gruppen.
